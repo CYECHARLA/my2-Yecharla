@@ -29,4 +29,12 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 | Swimming      | full-body workout.                              | 4-6 hours    |
 | Yoga          | flexibility, relaxation, and balance.           | 2-4 hours    |
 
+---
+## Pithy Quotes by Scientists
+>*Imagination is more important than knowledge.* - **Albert Einstein**
+
+> *Science is not only a disciple of reason but also one of romance and passion.* - **Stephen Hawking**
+---
+## Code Fencing and Stack Overflow Question
+
 
