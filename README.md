@@ -5,16 +5,28 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 
 ---
 
-### ACTIVITIES
+## ACTIVITIES
 
 1. Triking 
 2. Bike ride
 3. Camping 
 
-### FOOD
+## FOOD
 
 - Momo's
 - Thukpa
 - Khambir
 
-[Mystats](https://github.com/CYECHARLA/my2-Yecharla/blob/main/MyStats.md)
+[Mystats-Image](https://github.com/CYECHARLA/my2-Yecharla/blob/main/MyStats.md)
+
+---
+
+## Recommended Sports 
+| Sport         | Recommendation                                  | Weekly Hours |
+|---------------|-------------------------------------------------|--------------|
+| Tennis        | Great for cardio and socializing.               | 5-7 hours    |
+| Hiking        | Connect with nature and stay active.            | 3-5 hours    |
+| Swimming      | full-body workout.                              | 4-6 hours    |
+| Yoga          | flexibility, relaxation, and balance.           | 2-4 hours    |
+
+
