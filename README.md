@@ -10,3 +10,10 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 1. Triking 
 2. Bike ride
 3. Camping 
+
+### FOOD
+
+- Momo's
+- Thukpa
+- Khambir
+
