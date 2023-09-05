@@ -17,3 +17,4 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 - Thukpa
 - Khambir
 
+[Mystats](https://github.com/CYECHARLA/my2-Yecharla/blob/main/MyStats.md)
