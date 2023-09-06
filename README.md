@@ -7,8 +7,8 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 
 ## ACTIVITIES
 
-1. Triking 
-2. Bike ride
+1. Trecking 
+2. Bike riding
 3. Camping 
 
 ## FOOD
@@ -17,12 +17,12 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 - Thukpa
 - Khambir
 
-[Mystats-Image](https://github.com/CYECHARLA/my2-Yecharla/blob/main/MyStats.md)
+[Mystats-Image](MyStats.md)
 
 ---
 
 ## Recommended Sports 
-| Sport         | Recommendation                                  | Weekly Hours |
+| Sport         | Benefits                                        | Weekly Hours |
 |---------------|-------------------------------------------------|--------------|
 | Tennis        | Great for cardio and socializing.               | 5-7 hours    |
 | Hiking        | Connect with nature and stay active.            | 3-5 hours    |
@@ -36,5 +36,21 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 > *Science is not only a disciple of reason but also one of romance and passion.* - **Stephen Hawking**
 ---
 ## Code Fencing and Stack Overflow Question
+>*how to knockout for svg text element?* - [Stack Overflow](https://stackoverflow.com/questions/19640842/how-to-knockout-for-svg-text-element)
 
+<div class="knockout">
+  
+  <svg class="knockout-text-container" width="100%" height="100%">
+    
+    <rect class="knockout-text-bg" width="100%" height="100%" fill="#000" x="0" y="0" fill-opacity="1" mask="url(#knockout-text)" />
+    
+    <mask id="knockout-text">
+      <rect width="100%" height="100%" fill="#fff" x="0" y="0" />
+      <text x="50%" y="50%" fill="#000" text-anchor="middle">Knock Out Text</text>
+    </mask>
+    
+  </svg>
+  
+</div>
 
+Snippet Source link <https://css-tricks.com/snippets/svg/svg-knockout-text/>
