@@ -1,4 +1,4 @@
 # ChalamNaidu_Yecharla
 
-I'm from India, I have completed my undergradutae in Bachelours Technology in stream of Electronic and communication engineering. 
-[![ChalamNaidu_Yecharla](./images/My_Image.jpg)](https://github.com/CYECHARLA/my2-Yecharla/blob/main/MyStats.md)
+I am Techie , Nature lover and enthusiast of latest gadgets.I enjoy riding bike in greenery.
+[![ChalamNaidu_Yecharla](My_Image.jpg.JPG)]
