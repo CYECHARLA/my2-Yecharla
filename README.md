@@ -17,7 +17,7 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 - Thukpa
 - Khambir
 
-[To get more info about me click here](MyStats.md)
+[To get more info about me Click here](MyStats.md)
 
 ---
 
@@ -31,9 +31,9 @@ Ladakh, much like a **captivating spot, enthralls visitors with its breathtaking
 
 ---
 ## Pithy Quotes by Scientists
->*Imagination is more important than knowledge.* - **Albert Einstein**
+> Imagination is more important than knowledge. - *Albert Einstein*
 
-> *Science is not only a disciple of reason but also one of romance and passion.* - **Stephen Hawking**
+> Science is not only a disciple of reason but also one of romance and passion. - *Stephen Hawking*
 ---
 ## Code Fencing and Stack Overflow Question
 >*how to knockout for svg text element?* - [Stack Overflow](https://stackoverflow.com/questions/19640842/how-to-knockout-for-svg-text-element)
